@@ -10,7 +10,8 @@ namespace This
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Just for fun!");
+            Console.ReadKey();
         }
     }
 }
