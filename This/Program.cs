@@ -10,6 +10,7 @@ namespace This
     {
         static void Main(string[] args)
         {
+            //OKAI
             Console.WriteLine("Just for fun!");
             Console.ReadKey();
         }
